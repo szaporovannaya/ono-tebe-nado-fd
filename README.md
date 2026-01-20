@@ -1,1 +1,1 @@
-https://github.com/szaporovannaya/ono-tebe-nado-fdd
+https://github.com/szaporovannaya/ono-tebe-nado-fd
